@@ -38,7 +38,7 @@ A [implementação](src/main/java/routefinder/domain/usecase/astar) do caso de u
 
 ### Pré-requisitos
 
-* Java 11
+* [Java 11 JDK](https://adoptopenjdk.net/)
 
 ### Testando
 
