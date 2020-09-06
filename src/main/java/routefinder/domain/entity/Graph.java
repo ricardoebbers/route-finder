@@ -1,4 +1,4 @@
-package takechallenge.domain.entity;
+package routefinder.domain.entity;
 
 import java.util.Set;
 

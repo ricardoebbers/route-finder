@@ -1,4 +1,4 @@
-package takechallenge.domain.entity;
+package routefinder.domain.entity;
 
 public interface Node {
 
