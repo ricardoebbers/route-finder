@@ -33,3 +33,16 @@ Também é possível mapear as principais [exceções](src/main/java/routefinder
 
 A [implementação](src/main/java/routefinder/domain/usecase/astar) do caso de uso foi feita com base
  no [algoritmo de busca A*](https://en.wikipedia.org/wiki/A*_search_algorithm).
+
+## Como testar
+
+### Pré-requisitos
+
+* Java 11
+
+### Testando
+
+1. Clone esse repositório
+2. Use o gradle para fazer o build: `./gradlew build`  (ou gradlew.bat no Windows)
+3. Execute o Main com o gradle: `./gradlew run`
+4. Verifique que o arquivo de [rotas](src/main/resources/rotas.txt) foi criado corretamente
